@@ -1,0 +1,14 @@
+C:\Users\juamp\source\repos\Actividad03\Actividad03\bin\Debug\Actividad03.exe.config
+C:\Users\juamp\source\repos\Actividad03\Actividad03\bin\Debug\Actividad03.exe
+C:\Users\juamp\source\repos\Actividad03\Actividad03\bin\Debug\Actividad03.pdb
+C:\Users\juamp\source\repos\Actividad03\Actividad03\obj\Debug\Actividad03.csprojAssemblyReference.cache
+C:\Users\juamp\source\repos\Actividad03\Actividad03\obj\Debug\Actividad03.csproj.CoreCompileInputs.cache
+C:\Users\juamp\source\repos\Actividad03\Actividad03\obj\Debug\Actividad03.exe
+C:\Users\juamp\source\repos\Actividad03\Actividad03\obj\Debug\Actividad03.pdb
+C:\Users\juamp\source\repos\A8889113.Actividad03\Actividad03\bin\Debug\Actividad03.exe.config
+C:\Users\juamp\source\repos\A8889113.Actividad03\Actividad03\bin\Debug\Actividad03.exe
+C:\Users\juamp\source\repos\A8889113.Actividad03\Actividad03\bin\Debug\Actividad03.pdb
+C:\Users\juamp\source\repos\A8889113.Actividad03\Actividad03\obj\Debug\Actividad03.csprojAssemblyReference.cache
+C:\Users\juamp\source\repos\A8889113.Actividad03\Actividad03\obj\Debug\Actividad03.csproj.CoreCompileInputs.cache
+C:\Users\juamp\source\repos\A8889113.Actividad03\Actividad03\obj\Debug\Actividad03.exe
+C:\Users\juamp\source\repos\A8889113.Actividad03\Actividad03\obj\Debug\Actividad03.pdb
